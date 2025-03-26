@@ -32,7 +32,7 @@ export default function Home() {
 return (
   <div>
      <div className="flex flex-col items-center justify-center bg-amber-500 min-h-16 py-4">
-      <div className="text-center"><h1>God said, "Let there be light," and there was light.</h1></div>
+      <div className="text-center"><h1>God said, &quot;Let there be light,&quot; and there was light.</h1></div>
       <div className="text-center"><h1>神说，要有光，就有了光。</h1></div>
      </div>
      {result && <div className="flex font-bold items-center justify-center bg-gray-100 mx-auto p-4">
