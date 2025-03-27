@@ -46,7 +46,7 @@ return (
             Check the Articles with AI
           </h1>
           <p className="text-xl text-gray-600 max-w-xl mx-auto">
-            Please provider the Prompt and the content you want to check.
+            Please provide the Prompt and the content you want to check.
           </p>
         </div>
         <div className="bg-white shadow-md rounded-lg p-8">
