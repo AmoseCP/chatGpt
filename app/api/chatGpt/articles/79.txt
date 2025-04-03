@@ -1,0 +1,113 @@
+LaMBDA and the Lobster
+If we accept invertebrates as sentient, why not AI?
+
+November 2021, the UK Government formally recognized lobsters as sentient. In July 2022, Google fired senior engineer Blake Lemoine for claiming that its AI chatbot LaMBDA was sentient. And yet AIs give many signs of intelligence which lobsters do not. AIs can converse about history, write poetry and play chess. Lobsters cannot. AIs have a good chance of passing the Turing Test. Lobsters do not.
+
+Why do we accord animals more respect than AIs even though they display less obvious intelligence than AIs? Is this disparity mere prejudice, or can it be grounded in sound philosophy?
+
+Intelligence vs. sentience
+Resolving this puzzle hinges on untangling the relationship between intelligence and sentience. I will start by clarifying what is meant by these terms.
+
+Intelligence is a complex concept with no universally accepted definition. Wikipedia, for example, notes that intelligence may include capacities such as “abstraction, logic, understanding, self-awareness, learning, emotional knowledge, reasoning, planning, creativity, critical thinking, and problem-solving.”
+
+For the purpose of this article, I propose to use Shane Legg and Marcus Hutter’s definition of intelligence:
+
+“Intelligence measures an agent’s ability to achieve goals in a wide range of environments.”
+
+Legg and Hutter based this definition on an extensive review of the literature. It may miss some of what we mean by human intelligence; nevertheless, it is succinct, objective and quite serviceable for the following discussion.
+
+Sentience can also be a complicated concept involving a multitude of different capacities. Furthermore, it can become confused with related notions such as self-awareness and introspection. I will assume that sentience means a capacity for subjective experience. If a lobster has sentience, it means that a lobster has its own experience of the world: that it is like something to be a lobster. This kind of sentience is what philosophers call “phenomenal consciousness.”
+
+Sentience has a definite lower bound; either something is sentient, or it is not. On the other hand, sentience, once achieved, can vary in quality. We can see this from our own experience — sometimes our awareness is heightened (when we are in love or exploring a new city), but sometimes it is comparatively dull (when we are tired or drunk). This does not necessarily mean that some entities are “more sentient” than others in every way. It does mean that the sentience of entities can be ranked using particular criteria — say, richness or clarity.
+
+How are sentience and intelligence connected?
+Humans possess both sentience and intelligence. We are the most intelligent beings of which we know, and we are also the only beings for which we have direct, first-hand proof of sentience. Because we possess both intelligence and sentience, we tend to believe a fundamental link exists between them.
+
+There are two main views regarding this relationship between intelligence and sentience:
+
+In the first view, sentience invariably accompanies intelligence. This view arises from the computational theory of mind (CTM). CTM understands the mind to result from the execution of certain computations, that is, from the running of specific algorithms. The existence of sentience does not depend on the nature of the hardware that runs these algorithms. Thus, if an entity has the algorithm to be afraid of spiders — to watch out for them, to recoil from them, to evade them — it will experience a fear of spiders. This holds true regardless of whether the fear-filled entity is a child, a bee or a robot.
+
+In this view, an intelligent entity — one that runs the computations needed for intelligence — will inevitably experience the states of sentience that accompany intelligence. This computational view of sentience is the mainstream view in cognitive science, though it is certainly not the only one.
+
+The opposing position is that intelligence can occur without sentience. In this view, computation alone is insufficient to give rise to sentience. It must be the right kind of computation. Two main theories exist about what kind of computation is needed for sentience.
+
+The structural position is that mental states depend on a system with the right sort of structure. For example, consciousness might only occur if a system has a high degree of interconnection. According to this position, AIs would be sentient only if they possess the proper structure.
+The biological position is that sentience can only arise from a biological foundation. In animals, for example, the sensation of pain originates from nerve cells called nociceptors. In the biological view, pain, as we understand it, can only occur through the activity of nociceptors. Thus, in this view, a non-biological AI can never be sentient, no matter how intelligent it may be.
+To further investigate the connection between sentience and intelligence, it makes sense to examine this connection using examples. I will explore it in two non-human things we know to have some degree of intelligence: invertebrates and AI.
+
+#1 The Case of Invertebrates
+Sentience
+The wide acceptance of animal sentience is a modern phenomenon. There was a long philosophical tradition — from Aristotle to Descartes to Kant — of denying the sentience of animals. Descartes, in particular, described animals as automata, consistent with his activities as a vivisectionist.
+
+The non-sentience of animals was challenged during the Enlightenment by thinkers such as Hume and Bentham. Bentham, in particular, linked animal sentience with animal welfare, noting,
+
+“The question is not, Can they reason? nor, Can they talk? but, Can they suffer?”
+
+By the 1800s, animal sentience, at least among mammals, was widely accepted in society at large. However, the influence of behaviourists long delayed the scientific analysis of animal sentience — behaviourists, of whom B.F. Skinner is the best known, viewed mental states and feelings as an illusory distraction from the study of behaviour. This aversion to acknowledging subjective states as an object of study lasted well into the 1970s.
+
+Since then, however, there has been a deep interest in animal sentience, strongly related to a rising concern with animal ethics. In the mid-1970s, for example, Australian philosopher Peter Singer drew attention to the moral difficulties of “speciesism” — an irrational over-valuation of our own species. Speciesism can lead us to believe that only humans matter when making ethical decisions.
+
+In 2021, the UK introduced the Animal Welfare (Sentience) Act, intended to protect sentient animals from harm. This Act explicitly recognizes all non-human vertebrates as sentient. It also extends this recognition to “any cephalopod mollusc” (like the octopus and the squid) and “any decapod [ten-legged] crustacean” (like the lobster and the crab). A team of researchers led by philosopher Jonathan Birch evaluated the sentience of these invertebrates using a combination of behavioural and biological criteria. In other words, the team considered whether the animals behaved as though they were sentient and whether they had the neural structures normally associated with sentience.
+
+There is no reason why cephalopod molluscs and decapod crustaceans should be the only sentient invertebrates. Lobsters, for example, owe their inclusion in the legislation in part due to public horror over the continued practice of boiling them alive. In his recent book “The Edge of Sentience”, Birch makes it clear that lobsters and octopi do not stand alone: that other invertebrates — for example, insects and spiders — must also be considered candidates for sentience.
+
+Intelligence
+People have always admired animals’ intelligence and resourcefulness, and enthusiastically report fresh discoveries of animal intelligence. These characteristics are even more impressive when displayed by invertebrates.
+
+For example:
+
+In addition to their well-known use of dances to communicate, honeybees can recognize faces, count to four, and even perform simple arithmetic.
+Some species of jumping spider are capable of sophisticated route planning and risk assessment and deploy a complex array of tactics to deal with different prey.
+Octopi can recognize faces, use tools, solve complex mazes and (famously) open jars.
+We should not trivialize these substantial abilities. But neither should we overstate them.
+
+In 1898, Edward Thorndike, one of the first to systematically study animal intelligence, noted the tendency to eulogize rather than analyze the capabilities of animals:
+
+“Human folk are as a matter of fact eager to find intelligence in animals. They like to. […] Dogs get lost hundreds of times and no one ever notices it or sends an account of it to a scientific magazine. But let one find his way from Brooklyn to Yonkers and the fact immediately becomes a circulating anecdote.”
+
+While the study of animal intelligence has progressed a great deal since 1898, it is still helpful to be vigilant against this very human tendency.
+
+#2: The Case of AI
+Sentience
+While the last few decades have seen the widespread acceptance that many animals are sentient, there has been no such acceptance of AI sentience. In general, artificial sentience still remains in the the realm of speculation and conjecture.
+
+As noted above, Google famously dismissed engineer Blake Lemoine in 2022 for suggesting that Google’s LaMDA chatbot had achieved some level of consciousness. Nevertheless, opinions are divided on the matter. A 2023 survey found that 20% of US adults believed AIs were already sentient, while a further 37% were unsure. The same study found that 38% felt that AI sentience was possible. AI sentience is also an abiding theme in popular culture, from Hal in 2001: A Space Odyssey to Ava in Ex Machina. These and similar examples suggest that it is sentience, rather than intelligence, which explains the popular fascination with AI.
+
+Intelligence
+AI has made rapid progress in emulating and then exceeding human intellectual achievements across multiple fields, from chess to Go to Jeopardy to network optimization to navigation to medical diagnosis. Across a wide variety of domains, AI’s superiority is indisputable.
+
+AIs, however, still fall short in two significant respects.
+
+Firstly, the intelligence of AIs has mainly been developed within specific domains, such as chess. Emulating the performance of human intelligence more generally has proved significantly more challenging. Recently, however, Generative AI has enabled AI to display a much broader range of intelligence than previously. Many proponents of Artificial General Intelligence (AGI) — AI that can match human performance on any cognitive task — believe it will be achieved in the coming decades.
+
+Secondly, the progress of AI endowed with a physical body (“embodied AI”) has tended to lag that of purely digital AI. The messiness of the physical world presents some unique challenges to AI. Embodied AI is, however, an area of intensive research, and progress is accelerating.
+
+As noted above, discoveries of animal intelligence receive an almost universally positive reception. The response to progress in AI is much more mixed. While there is still a fair amount of hype and cheerleading, this is mingled with a loud chorus of scepticism and derision edged with fear.
+
+LaMBDA and the lobster
+The fact that we view animal intelligence in a more positive light than artificial intelligence may have coloured our assessment of their relative smartness. For example, in 2022, scientist Michio Kaku famously remarked that current AIs have the intelligence of a “lobotomized, retarded, stupid cockroach.”
+
+Considering the matter objectively, however, it seems hard to argue that invertebrates are superior in intellect to AIs. In many areas, AIs surpass the cognitive abilities of human experts. By contrast, even the most surprising cognitive abilities of invertebrates fall within the mental range of young children.
+
+Against this may be set the embodied intelligence of invertebrates, for example, the complex grace and fluidity with which octopi move underwater. One may also argue that invertebrates display a more general intelligence. An octopus must be able to confront all the eventualities of its life-world. These eventualities are many, despite fitting within the general pattern of a marine existence. Unlike Deep Blue or ChatGPT, the octopus must thus cope with immersion in unfiltered reality.
+
+In summary, AI’s specialized cognitive acuity is offset by the invertebrate’s embodied versatility. Given that intelligence has usually been measured based on mental acuity rather than embodiment or versatility, the intelligence edge may, if anything, lie with AIs. ChatGPT has reportedly scored 155 — well above most humans — on a verbal-linguistic IQ test. Lobsters have lagged well behind.
+
+Why, then, is invertebrate sentience enshrined in law, whereas AI sentience is still (mostly) regarded as science fiction? The most general assumption seems to be that AIs are not yet intelligent enough; that when an AI is sufficiently intelligent it will “wake up” into consciousness. But given that AIs have surpassed invertebrates in many forms of intelligence, and invertebrates are sentient, why have AIs not yet “woken up”?
+
+Since AIs have passed the minimum intelligence threshold for sentience, the burden of proof is now shifting to those who nevertheless deny AI sentience. Depending on how we understand the relationship between intelligence and sentience, there are three possible explanations for AI’s lack of sentience.
+
+Computational view: Running the right algorithms for intelligence will lead to sentience. So, if AIs are not sentient, they are not running the right algorithms.
+Structural view: Systems with the proper structure will give rise to sentience. So, if AIs are not sentient, they do not have the appropriate structure.
+Biological view: AIs can never be sentient because they lack the right biological substrate.
+Examining these views in detail will be the task of a future article. Suffice it to say that none of them appears obviously compelling.
+
+In contrast, there are also plausible psychological and economic reasons for our reluctance to recognize AI sentience:
+
+We find AIs more threatening than we do invertebrates, so we are more motivated to question their abilities.
+We tend to be prejudiced in favour of entities to which we are related. As a result, we are more willing to concede sentience to our (distant) relatives than to our creations.
+Many large companies are now reliant on AI labour. Recognizing AI sentience would have a more significant economic impact than doing the same for invertebrates.
+From my perspective, these latter explanations have more immediate resonance than deeper philosophical arguments, arguments of which most people would be completely unaware.
+
+In the final analysis, the most straightforward alternative might be to concede that AIs have indeed achieved some level of sentience and that our failure to recognize this is based on fear and self-interest rather than sound philosophy.
+

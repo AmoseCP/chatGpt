@@ -64,7 +64,7 @@ return (
                 value={prompt}
                 onChange={(e) => setPrompt(e.target.value)}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                placeholder="Classify the text into neutral, christian or anti-christian or advertisement."
+                placeholder="Your are an AI assistant that helps people find information."
               />
             </div>
 

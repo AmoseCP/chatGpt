@@ -2,13 +2,22 @@ import { OpenAIClient, AzureKeyCredential } from "@azure/openai";
 import { NextResponse } from 'next/server';
 
 
-async function isChristianContent(content, prompt){
+export async function isChristianContent(content, prompt="Your are an AI assistant that helps people find information."){
   const endpoint = process.env["AZURE_OPENAI_ENDPOINT"] ;
   const azureApiKey = process.env["AZURE_OPENAI_KEY"] ;
   const deploymentId = process.env["AZURE_OPENAI_DEPLOYMENT_ID"];
+  content = `
+Classify the text into neutral, christian or anti-christian or advertisement. 
+Text: For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
+Sentiment: christian
+Classify the text into neutral, christian or anti-christian or advertisement. 
+Text: ${content}
+Sentiment:
+  `;
+
   const messages = [
     { role: "system", content: prompt },
-    { role: "user", content: content},
+    { role: "user", content: content },
   ];
   const client = new OpenAIClient(endpoint, new AzureKeyCredential(azureApiKey));
   const result = await client.getChatCompletions(deploymentId, messages);
