@@ -57,7 +57,7 @@ return (
               <div className="text-right">Total Tokens used:</div>
               <div className="font-bold">{result.usage.totalTokens}</div>
               <div className="text-right">AI model used:</div>
-              <div className="font-bold">{result.usage.AIModel}</div>
+              <div className="font-bold">gpt-3.5-turbo-0125</div>
             </div>
           </div>
         </>
